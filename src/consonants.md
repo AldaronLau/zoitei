@@ -52,3 +52,10 @@ Some consonant clusters should be written using shorthand:
 | gh | -            | -                                  |
 | j  | *j*ar        | jar                                |
 | ch | *ch*air      | cher                               |
+
+### Non-English Sounds
+
+ - `c` sound between 'l' and 'r', clicking 'rl' sound, rolled 'r'
+ - `kh` hard / low-pitched voiced 'h', back of mouth
+ - `rh` soft / high-pitched voiced 'h', front of mouth
+ - `gh` glottal stop

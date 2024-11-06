@@ -2,18 +2,19 @@
 
 The 12 vowels are arranged visually, organized by loud / quiet and big / small:
 
-|    | loud | quiet             |
-|----|------|-------------------|
-| 0s | ah   | a                 |
-| 1s | ih   | i / yh            |
-| 2s | eh   | e                 |
-| 3B | uh   | u / io (u-, -u)   |
-| 4B | oh   | o                 |
-| 5B | ae   | iy / yhh (y-, -y) |
+|    | loud   | quiet             |
+|----|--------|-------------------|
+| 0s | ah     | a                 |
+| 1s | ih     | i / yh            |
+| 2s | eh     | e                 |
+| 3B | uh / y | u / io (u-, -u)   |
+| 4B | oh     | o                 |
+| 5B | ae     | iy (y-, -y)       |
 
 For disambiguation and shorthand, "i" is another way to write "yh".  "yh" is
 preferred.  Similary "io" is another way to write "u"; "u" is preferred.  Also,
-"ou" is another way to write "o"; "o" is preferred.
+"ou" is another way to write "o"; "o" is preferred.  And "y" is another way to
+write "uh"; "uh" is preferred.
 
 Loud vowels precede a single consonant and quiet vowels predece a double
 consonant.  A vowel at the end of the word is considered a quiet vowel.  To end
@@ -26,6 +27,7 @@ written as combinations of other characters.
 
 |     | English word | Zoitei Romanized Phonetic Spelling |
 |-----|--------------|------------------------------------|
+| ae  | h*a*t        | xaet                               |
 | ah  | f*a*r        | far                                |
 | ahh | *a*nnounce   | annauns                            |
 | au  | h*ow*        | xau                                |
@@ -52,5 +54,19 @@ written as combinations of other characters.
 | uhh | s*oo*n       | sunn                               |
 | u-  | *w*ell       | uell                               |
 | yh  | wond*e*r     | uanndyr                            |
-| yhh | h*a*t        | xaet                               |
+| yhh | w*o*rm       | uyrrm                              |
 | y-  | *y*ear       | yiyr                               |
+
+### Similar sounds
+
+"uh" is similar to "yh".  To know the difference say the word "wonderful"
+written as "uanndyrful".  "uh" is lower pitched and longer than "yh", and "uh"
+is closer to the front of the mouth than "yh".
+
+"ei" is similar to "ey".  "ey" can be thought of as a more nasal version of
+"ei", while "ei" is softer.  Similarly, "eu" is the more nasal version of "eo",
+both also similar to "iu" with more emphasis upfront.
+
+"oy" is pronounced closer to "ai" (although one might assume it's closer to
+"ay", it is not - the 'oh' sound is replaced with an 'uh' sound), but lower
+pitched, while "ai" is softer.
