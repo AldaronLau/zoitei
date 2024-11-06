@@ -1,2 +1,2 @@
 # zoitei
-Phonetic Alphabet For Conlangs
+Phonetic Alphabet For Conlangs and Voice Synthesis
