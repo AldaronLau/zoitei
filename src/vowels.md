@@ -61,12 +61,14 @@ pitched, while "ai" is softer.
 
 ## Vowels and Syllables
 
-Use ä to split syllables in vowel clusters.  A vowel at the end of a syllable
-is always unaccented by default.  The vowel at the start of the syllable is
-always accented by default.  The ä inherits the marking previous vowel (none
-being use the default).  If the previous letter is a consonant, accent.
+Use ä to split syllables in vowel clusters.  Use an ' following the vowel to
+indicate the ä was a quiet vowel (otherwise assumed loud).
 
- - za-eal => zàël (zà-èl)
- - za-el => zaël (zà-él)
- - zah-eal => zäèl (zá-èl)
- - zah-el => zäel (zá-él)
+ - za-eal => zàë'l (zà-èl)
+ - za-el => zàël (zà-él)
+ - zah-eal => zaë'l (zá-èl)
+ - zah-el => zaël (zá-él)
+ - za-e => zàë (zà-è)
+ - za-eh => zàëh (zà-é)
+ - zah-e => zaë (zá-è)
+ - zah-eh => zaëh (zá-é)

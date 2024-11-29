@@ -62,6 +62,7 @@ Some consonant clusters should be written using shorthand:
 
 ## Consonants and Syllables
 
-When writing 'h' instead of 'x' (such as in warthog), add ':
+You can only write 'h' instead of 'x' at the beginning of a word:
 
- - warthog => uort'hog
+ - hi => hay
+ - warthog => uortxog
