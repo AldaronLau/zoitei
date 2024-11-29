@@ -72,7 +72,7 @@ pitched, while "ai" is softer.
 
 ## Vowels and Syllables
 
-For ASCII, use - to split syllables.  Any vowel before the - is quiet.
+For ASCII, use - to split syllables.  A vowel directly preceding the - is quiet.
 
 Use ä to split syllables in vowel clusters.  Use an ' following the vowel to
 indicate the ä was a quiet vowel (otherwise assumed loud).
