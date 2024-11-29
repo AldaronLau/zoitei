@@ -59,8 +59,8 @@ word loud, follow it with 'h' (inaudible glottal stop).
 ### Similar sounds
 
 "ú" is similar to "ý".  To know the difference say the word "wonderful"; written
-as "uàndyrful".  "ú" is lower pitched and longer than "ý", and "ú" is closer to
-the front of the mouth than "ý".
+as "uiandyrful" or "uàndyrful".  "ú" is lower pitched and longer than "ý", and
+"ú" is closer to the front of the mouth than "ý".
 
 "ei" is similar to "ey".  "ey" can be thought of as a more nasal version of
 "ei", while "ei" is softer.  Similarly, "eu" is the more nasal version of "eo",
