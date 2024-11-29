@@ -1,8 +1,7 @@
 # Consonants
 
-Since there are not 24 ASCII consonants to choose from, the letter 'h' is used
-as a letter modifier rather than extra letter; 'sh' would be considered a single
-letter.
+Since there are not 24 ASCII consonants to choose from, the letter 'h' can be
+used as a consonant modifier where 'sh' would be considered a single letter.
 
 The consonants are arranged visually, organized by loud / quiet and big / small:
 
@@ -10,10 +9,10 @@ The consonants are arranged visually, organized by loud / quiet and big / small:
 |----|-------|----|--------|--------|
 | 0s | m     | p  | f      | th / þ |
 | 1s | n     | t  | s      | sh / š |
-| 2s | q / ŋ | k  | x / h  | kh / ǩ |
+| 2s | q / ŋ | k  | kh / ǩ | x      |
 | 3B | l     | b  | v      | w      |
 | 4B | c     | d  | z      | zh / ž |
-| 5B | r     | g  | rh / ř | gh / ǧ |
+| 5B | r     | g  | h      | xh / ȟ |
 
 Some consonant clusters should be written using shorthand:
 
@@ -36,8 +35,8 @@ Some consonant clusters should be written using shorthand:
 | sh / š | *sh*ard      | shard / šard                       |
 | q / ŋ  | si*ng*       | siyq / sìŋ                         |
 | k      | *c*ard       | kard                               |
-| x / h  | *h*ello      | xealo / hèlo                       |
 | kh / ǩ | -            | -                                  |
+| x      | *h*ello      | xealo / xèlo                       |
 | l      | *l*ore       | loar / lòr                         |
 | b      | *b*alance    | baelins / bỳlins                   |
 | v      | *v*iolin     | vayoalin / vayòlin                 |
@@ -48,21 +47,14 @@ Some consonant clusters should be written using shorthand:
 | zh / ž | colla*g*e    | kialazh / kàlaž                    |
 | r      | *r*ain       | reyn                               |
 | g      | *g*rab       | graeb / grỳb                       |
-| rh / ř | -            | -                                  |
-| gh / ǧ | -            | -                                  |
+| h      | -            | -                                  |
+| xh / ȟ | -            | -                                  |
 | j      | *j*ar        | jar                                |
 | ch / č | *ch*air      | cher / čer                         |
 
-### Non-English Sounds
+### Non-American-English Sounds
 
  - `c` sound between 'l' and 'r', clicking 'rl' sound, rolled 'r'
  - `kh` / `ǩ` hard / low-pitched voiced 'h', back of mouth
- - `rh` / `ř` soft / high-pitched voiced 'h', front of mouth
- - `gh` / `ǧ` glottal stop
-
-## Consonants and Syllables
-
-You can only write 'h' instead of 'x' at the beginning of a word:
-
- - hi => hay
- - warthog => uortxog
+ - `xh` / `ȟ` soft / high-pitched voiced 'h', front of mouth
+ - `h` glottal stop (must be between two vowels, otherwise inaudible)

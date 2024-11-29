@@ -12,6 +12,17 @@ by loud / quiet and big / small:
 | 4B | ú / {u}oe | u- / -u           |
 | 5B | ó         | oa / ò            |
 
+Vowels written are assumed to be loud by default, unless they are the last
+letter in a word (or precede a -).  For ASCII, to make the last letter in the
+word loud, follow it with 'h' (inaudible glottal stop).
+
+| ASCII | Unicode | Pronunciation |
+|-------|---------|---------------|
+| axa   | axa     | áxà           |
+| axah  | axá     | áxá           |
+| iaxa  | àxa     | àxà           |
+| iaxah | àxá     | àxá           |
+
 ## Pronunciation
 
 |        | English word | Zoitei Romanized Phonetic Spelling |
@@ -20,7 +31,7 @@ by loud / quiet and big / small:
 | ia / à | *a*rt        | iart / àrt                         |
 | ay     | cr*y*        | kray                               |
 | ai     | l*igh*t      | lait                               |
-| au     | h*ow*        | xau / hau                          |
+| au     | h*ow*        | xau                                |
 | ao     | *ou*t        | aot                                |
 | é      | f*ai*r       | fer                                |
 | ea / è | *e*nd        | eand / ènd                         |
@@ -47,28 +58,32 @@ by loud / quiet and big / small:
 
 ### Similar sounds
 
-"uh" is similar to "yh".  To know the difference say the word "wonderful"
-written as "uanndyrful".  "uh" is lower pitched and longer than "yh", and "uh"
-is closer to the front of the mouth than "yh".
+"ú" is similar to "ý".  To know the difference say the word "wonderful"; written
+as "uàndyrful".  "ú" is lower pitched and longer than "ý", and "ú" is closer to
+the front of the mouth than "ý".
 
 "ei" is similar to "ey".  "ey" can be thought of as a more nasal version of
 "ei", while "ei" is softer.  Similarly, "eu" is the more nasal version of "eo",
 both also similar to "iu" with more emphasis upfront.
 
 "oy" is pronounced closer to "ai" (although one might assume it's closer to
-"ay", it is not - the 'oh' sound is replaced with an 'uh' sound), but lower
+"ay"; it is not as the 'oh' sound is replaced with an 'uh' sound), but lower
 pitched, while "ai" is softer.
 
 ## Vowels and Syllables
 
+For ASCII, use - to split syllables.  Any vowel before the - is quiet.
+
 Use ä to split syllables in vowel clusters.  Use an ' following the vowel to
 indicate the ä was a quiet vowel (otherwise assumed loud).
 
- - za-eal => zàë'l (zà-èl)
- - za-el => zàël (zà-él)
- - zah-eal => zaë'l (zá-èl)
- - zah-el => zaël (zá-él)
- - za-e => zàë (zà-è)
- - za-eh => zàëh (zà-é)
- - zah-e => zaë (zá-è)
- - zah-eh => zaëh (zá-é)
+| ASCII   | Unicode | Pronunciation |
+|---------|---------|---------------|
+| za-eal  | zàë'l   | zà-èl         |
+| za-el   | zàël    | zà-él         |
+| zah-eal | zaë'l   | zá-èl         |
+| zah-el  | zaël    | zá-él         |
+| za-e    | zàë     | zà-è          |
+| za-eh   | zàëh    | zà-é          |
+| zah-e   | zaë     | zá-è          |
+| zah-eh  | zaëh    | zá-é          |
