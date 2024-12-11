@@ -3,64 +3,68 @@
 The 12 vowels (counting approximates as vowels) are arranged visually, organized
 by loud / quiet and big / small:
 
-|    | loud      | quiet             |
-|----|-----------|-------------------|
-| 0s | ý / {y}ie | ae / ỳ            |
-| 1s | í         | y- / -y           |
-| 2s | á         | ia / à            |
-| 3B | é         | ea / è            |
-| 4B | ú / {u}oe | u- / -u           |
-| 5B | ó         | oa / ò            |
+|    | loud       | quiet             |
+|----|------------|-------------------|
+| 0s | yh / {y}ie | ae / y'           |
+| 1s | ih         | iy / y'           |
+| 2s | ah         | ia / a'           |
+| 3B | eh         | ea / e'           |
+| 4B | uh / {u}oe | ou / u'           |
+| 5B | oh         | oa / o'           |
+
+The semivowel / glide vowel for iy / i' is written y- / -y (yeet would be
+written yiyt) and the semivowel / glide vowel for ou / u' is written u- / -u
+(swoon would be written suoun).
 
 Vowels written are assumed to be loud by default, unless they are the last
-letter in a word (or precede a -).  For ASCII, to make the last letter in the
-word loud, follow it with 'h' (inaudible glottal stop).
+letter in a word (or precede a -).  To make the last letter in the word loud,
+follow it with a lone 'h' (syllable break).
 
-| ASCII | Unicode | Pronunciation |
-|-------|---------|---------------|
-| axa   | axa     | áxà           |
-| axah  | axá     | áxá           |
-| iaxa  | àxa     | àxà           |
-| iaxah | àxá     | àxá           |
+| ASCII | Unicode | Pronunciation        |
+|-------|---------|----------------------|
+| axa   | axa     | ah + x + a' (ah-huh) |
+| axah  | axah    | ah + x + ah (ah-ha)  |
+| iaxa  | a'xa    | a' + x + a' (uh-huh) |
+| iaxah | a'xah   | a' + x + ah (a-ha)   |
 
 ## Pronunciation
 
-|        | English word | Zoitei Romanized Phonetic Spelling |
-|--------|--------------|------------------------------------|
-| á      | c*a*r        | kar                                |
-| ia / à | *a*rt        | iart / àrt                         |
-| ay     | cr*y*        | kray                               |
-| ai     | l*igh*t      | lait                               |
-| au     | h*ow*        | xau                                |
-| ao     | *ou*t        | aot                                |
-| é      | f*ai*r       | fer                                |
-| ea / è | *e*nd        | eand / ènd                         |
-| ey     | st*ay*       | stey                               |
-| ei     | -            | -                                  |
-| eu     | -            | -                                  |
-| eo     | -            | -                                  |
-| í      | f*i*n*i*sh   | finish / finiš                     |
-| iy / ì | f*ea*r       | fiyr / fìr                         |
-| iu     | *ew*         | iu                                 |
-| io     | -            | -                                  |
-| ó      | g*o*ne       | gon                                |
-| oa / ò | ph*o*ne      | foan / fòn                         |
-| oy     | -            | -                                  |
-| oi     | ann*oy*      | annoi                              |
-| ou / ù | s*ou*p       | soup / sùp                         |
-| ú      | b*oo*k       | buk                                |
-| {u}oe  | w*o*rd       | uoerd / uúrd                       |
-| u-     | *w*ell       | ueal / uèl                         |
-| ý      | d*i*rt       | dyrt                               |
-| ae / ỳ | s*a*nd       | saend / sỳnd                       |
-| {y}ie  | y*e*r        | yier / yýr                         |
-| y-     | *y*ear       | yiyr                               |
+|         | English word | Zoitei Romanized Phonetic Spelling |
+|---------|--------------|------------------------------------|
+| ah      | c*a*r        | kar                                |
+| ia / a' | *a*rt        | iart / a'rt                        |
+| ay      | cr*y*        | kray                               |
+| ai      | l*igh*t      | lait                               |
+| au      | h*ow*        | xau                                |
+| ao      | *ou*t        | aot                                |
+| eh      | f*ai*r       | fer                                |
+| ea / e' | *e*nd        | eand / e'nd                        |
+| ey      | st*ay*       | stey                               |
+| ei      | -            | -                                  |
+| eu      | -            | -                                  |
+| eo      | -            | -                                  |
+| ih      | f*i*n*i*sh   | finish / finiš                     |
+| iy / i' | f*ea*r       | fiyr / fi'r                        |
+| iu      | *ew*         | iu                                 |
+| io      | -            | -                                  |
+| oh      | g*o*ne       | gon                                |
+| oa / o' | ph*o*ne      | foan / fo'n                        |
+| oy      | -            | -                                  |
+| oi      | ann*oy*      | ianoi / a'noi                      |
+| ou / u' | s*ou*p       | soup / su'p                        |
+| uh      | b*oo*k       | buk                                |
+| {u}oe   | w*o*rd       | uoerd                              |
+| u-      | *w*ell       | ueal / ue'l                        |
+| yh      | d*i*rt       | dyrt                               |
+| ae / y' | s*a*nd       | saend / sy'nd                      |
+| {y}ie   | y*e*r        | yier                               |
+| y-      | *y*ear       | yiyr                               |
 
 ### Similar sounds
 
-"ú" is similar to "ý".  To know the difference say the word "wonderful"; written
-as "uiandyrful" or "uàndyrful".  "ú" is lower pitched and longer than "ý", and
-"ú" is closer to the front of the mouth than "ý".
+"uh" is similar to "yh".  To know the difference say the word "wonderful";
+written as "uiandyrful" or "ua'ndyrful".  "uh" is lower pitched and longer than
+"yh", and "uh" is closer to the front of the mouth than "yh".
 
 "ei" is similar to "ey".  "ey" can be thought of as a more nasal version of
 "ei", while "ei" is softer.  Similarly, "eu" is the more nasal version of "eo",
@@ -72,18 +76,25 @@ pitched, while "ai" is softer.
 
 ## Vowels and Syllables
 
-For ASCII, use - to split syllables.  A vowel directly preceding the - is quiet.
+For ASCII, use h to split syllables between vowels.  For Unicode, use the
+diëresis to split vowels.  For both, to make the first vowel quiet, use the
+two-letter spelling.
 
-Use ä to split syllables in vowel clusters.  Use an ' following the vowel to
-indicate the ä was a quiet vowel (otherwise assumed loud).
-
-| ASCII   | Unicode | Pronunciation |
-|---------|---------|---------------|
-| za-eal  | zàë'l   | zà-èl         |
-| za-el   | zàël    | zà-él         |
-| zah-eal | zaë'l   | zá-èl         |
-| zah-el  | zaël    | zá-él         |
-| za-e    | zàë     | zà-è          |
-| za-eh   | zàëh    | zà-é          |
-| zah-e   | zaë     | zá-è          |
-| zah-eh  | zaëh    | zá-é          |
+| ASCII    | Unicode | Pronunciation |
+|----------|---------|---------------|
+| iaheal   | iaë'l   | a + e'l       |
+| iahel    | iaël    | a + el        |
+| aheal    | aë'l    | ah + e'l      |
+| ahel     | aël     | ah + el       |
+| iahe     | iaë     | a + e         |
+| iaheh    | iaëh    | a + eh        |
+| ahe      | aë      | ah + e        |
+| aheh     | aëh     | ah + eh       |
+| ahehoh   | aëöh    | ah + eh + oh  |
+| aheho    | aëö     | ah + eh + o   |
+| aheahoh  | aëaöh   | ah + e + oh   |
+| aheaho   | aëaö    | ah + e + o    |
+| iahehoh  | iaëöh   | a + eh + oh   |
+| iaheho   | iaëö    | a + eh + o    |
+| iaheahoh | iaëaöh  | a + e + oh    |
+| iaheaho  | iaëaö   | a + e + o     |
