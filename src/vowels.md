@@ -6,7 +6,7 @@ by loud / quiet and big / small:
 |    | loud       | quiet             |
 |----|------------|-------------------|
 | 0s | yh / {y}ie | ae / y'           |
-| 1s | ih         | iy / y'           |
+| 1s | ih         | iy / i'           |
 | 2s | ah         | ia / a'           |
 | 3B | eh         | ea / e'           |
 | 4B | uh / {u}oe | ou / u'           |
