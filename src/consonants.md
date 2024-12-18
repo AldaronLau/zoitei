@@ -11,10 +11,10 @@ The consonants are arranged visually, organized by loud / quiet and big / small:
 |----|-------|----|--------|--------|
 | 0s | m     | p  | f      | th / þ |
 | 1s | n     | t  | s      | sh / š |
-| 2s | q / ŋ | k  | kh / ǩ | x      |
+| 2s | q / ŋ | k  | x      | kh / ǩ |
 | 3B | l     | b  | v      | w      |
 | 4B | c     | d  | z      | zh / ž |
-| 5B | r     | g  | gh / ǧ | xh / ȟ |
+| 5B | r     | g  | xh / ȟ | gh / ǧ |
 
 Some consonant clusters should be written using shorthand:
 
@@ -37,8 +37,8 @@ Some consonant clusters should be written using shorthand:
 | sh / š | *sh*ard      | shard / šard                       |
 | q / ŋ  | si*ng*       | siyq / si'ŋ                        |
 | k      | *c*ard       | kard                               |
-| kh / ǩ | -            | -                                  |
 | x      | *h*ello      | xealo / xe'lo                      |
+| kh / ǩ | -            | -                                  |
 | l      | *l*ore       | loar / lo'r                        |
 | b      | *b*alance    | baelins / by'lins                  |
 | v      | *v*iolin     | vayoalin / vayo'lin                |
@@ -49,8 +49,8 @@ Some consonant clusters should be written using shorthand:
 | zh / ž | colla*g*e    | kialazh / ka'laž                   |
 | r      | *r*ain       | reyn                               |
 | g      | *g*rab       | graeb / gry'b                      |
-| gh     | -            | -                                  |
 | xh / ȟ | -            | -                                  |
+| gh     | -            | -                                  |
 | j      | *j*ar        | jar                                |
 | ch / č | *ch*air      | cher / čer                         |
 
