@@ -2,5 +2,11 @@
 name = "zoitei"
 version = "0.1.0"
 edition = "2021"
+description = "Zoitei alphabet conversions"
+license = "Apache-2.0 OR BSL-1.0 OR MIT"
+documentation = "https://docs.rs/zoitei"
+homepage = "https://aldaronlau.github.io/zoitei"
+repository = "https://github.com/AldaronLau/zoitei"
+rust-version = "1.83"
 
 [dependencies]
