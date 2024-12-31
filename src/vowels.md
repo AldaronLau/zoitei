@@ -40,13 +40,12 @@ follow it with a lone 'h' (syllable break).
 | eh      | f*ai*r       | fer                                |
 | ea / e' | *e*nd        | eand / e'nd                        |
 | ey      | st*ay*       | stey                               |
-| ei      | -            | -                                  |
+| ei      | (b*a*g)      | (beig)                             |
 | eu      | -            | -                                  |
 | eo      | -            | -                                  |
 | ih      | f*i*n*i*sh   | finish / finiš                     |
 | iy / i' | f*ea*r       | fiyr / fi'r                        |
 | iu      | *ew*         | iu                                 |
-| io      | -            | -                                  |
 | oh      | g*o*ne       | gon                                |
 | oa / o' | ph*o*ne      | foan / fo'n                        |
 | oy      | -            | -                                  |
@@ -59,6 +58,13 @@ follow it with a lone 'h' (syllable break).
 | ae / y' | s*a*nd       | saend / sy'nd                      |
 | {y}ie   | y*e*r        | yier                               |
 | y-      | *y*ear       | yiyr                               |
+
+### Note on ("bag")
+
+Depending on accent, it may be pronounced "baeg" / "by'g", "beg", "beyg" or
+"beig".  Due to "ei" being only used in some northern midwest accents, it can
+be a stand-in when writing English in Zoitei for the speaker's chosen
+pronunciations.
 
 ### Similar sounds
 

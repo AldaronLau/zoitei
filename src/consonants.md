@@ -14,7 +14,7 @@ The consonants are arranged visually, organized by loud / quiet and big / small:
 | 2s | q / ŋ | k  | x      | kh / ǩ |
 | 3B | l     | b  | v      | w      |
 | 4B | c     | d  | z      | zh / ž |
-| 5B | r     | g  | xh / ȟ | gh / ǧ |
+| 5B | r     | g  | xh / ǰ | gh / ǧ |
 
 Some consonant clusters should be written using shorthand:
 
@@ -49,7 +49,7 @@ Some consonant clusters should be written using shorthand:
 | zh / ž | colla*g*e    | kialazh / ka'laž                   |
 | r      | *r*ain       | reyn                               |
 | g      | *g*rab       | graeb / gry'b                      |
-| xh / ȟ | -            | -                                  |
+| xh / ǰ | -            | -                                  |
 | gh     | -            | -                                  |
 | j      | *j*ar        | jar                                |
 | ch / č | *ch*air      | cher / čer                         |
@@ -58,5 +58,5 @@ Some consonant clusters should be written using shorthand:
 
  - `c` sound between 'l' and 'r', clicking 'rl' sound, rolled 'r'
  - `kh` / `ǩ` hard / low-pitched voiced 'h', back of mouth
- - `xh` / `ȟ` soft / high-pitched voiced 'h', front of mouth
- - `gh` glottal stop (must be between two vowels, otherwise inaudible)
+ - `xh` / `ǰ` soft / high-pitched voiced 'h', front of mouth
+ - `gh` / `ǧ` glottal stop (must be between two vowels, otherwise inaudible)

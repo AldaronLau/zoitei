@@ -11,7 +11,7 @@ Writing sentences in Zoitei, requires the punctuation to come first.
 When using unicode, use “ ” (outer) and « » (inner) for quotation marks,
 otherwise " (outer) and \` (inner).
 
- - :Ay toald weam, ":Its kald \`zoitei (maejik raitiyq)\`, ?xaev yu hyrd uv it"
+ - :ay toald weam, ":its kald \`zoitei (maejik raitiyq)\`, ?xaev yu hyrd uv it"
  - :Ay to'ld we'm, “:Its kald «zoitei (my'jik raiti'ŋ)», ¿xy'v yu hyrd uv it”
 
 | English            | Zoitei ASCII       | Zoitei Unicode     |
