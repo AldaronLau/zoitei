@@ -11,10 +11,10 @@ The consonants are arranged visually, organized by loud / quiet and big / small:
 |----|-------|----|--------|--------|
 | 0s | m     | p  | f      | th / þ |
 | 1s | n     | t  | s      | sh / š |
-| 2s | q / ŋ | k  | x      | kh / ǩ |
+| 2s | q / ŋ | k  | x      | lh / ł |
 | 3B | l     | b  | v      | w      |
 | 4B | c     | d  | z      | zh / ž |
-| 5B | r     | g  | rh / ř | gh / ǧ |
+| 5B | r     | g  | nh / ň | rh / ř |
 
 Some consonant clusters should be written using shorthand:
 
@@ -38,7 +38,7 @@ Some consonant clusters should be written using shorthand:
 | q / ŋ  | si*ng*       | siyq / si'ŋ                        |
 | k      | *c*ard       | kard                               |
 | x      | *h*ello      | xealo / xe'lo                      |
-| kh / ǩ | -            | -                                  |
+| lh / ł | -            | -                                  |
 | l      | *l*ore       | loar / lo'r                        |
 | b      | *b*alance    | baelins / by'lins                  |
 | v      | *v*iolin     | vayoalin / vayo'lin                |
@@ -49,14 +49,15 @@ Some consonant clusters should be written using shorthand:
 | zh / ž | colla*g*e    | kialazh / ka'laž                   |
 | r      | *r*ain       | reyn                               |
 | g      | *g*rab       | graeb / gry'b                      |
+| nh / ň | -            | -                                  |
 | rh / ř | -            | -                                  |
-| gh     | -            | -                                  |
 | j      | *j*ar        | jar                                |
 | ch / č | *ch*air      | cher / čer                         |
 
 ### Non-American-English Sounds
 
- - `c` sound between 'l' and 'r', clicking 'rl' sound, rolled 'r'
- - `kh` / `ǩ` hard / low-pitched voiced 'h', back of mouth
- - `rh` / `ř` soft / high-pitched voiced 'h', front of mouth
- - `gh` / `ǧ` glottal stop (must be between two vowels, otherwise inaudible)
+ - `c` sound between 'l' and 'r', pronounced like 'd' but with tongue further
+   back in mouth
+ - `lh` / `ł` soft voiced 'h', tongue placement similar to 'l'
+ - `rh` / `ř` hard voiced 'h', scoff / growl, tongue placement similar to 'r'
+ - `nh` / `ň` glottal stop (must be between two vowels, otherwise inaudible)

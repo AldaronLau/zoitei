@@ -114,13 +114,11 @@ impl Iterator for Sounds<'_> {
                 self.0.next();
                 Ok(Sound::Gh)
             }
+            ('y', Some('a' | 'e' | 'i' | 'o' | 'u')) => Ok(Sound::Y),
+            ('u', Some('a' | 'e' | 'i' | 'o' | 'u')) => Ok(Sound::U),
             ('a', Some('e')) | ('y', Some('\'') | None) => {
                 self.0.next();
                 Ok(Sound::Ae)
-            }
-            ('y', Some('a' | 'e' | 'i' | 'o' | 'u')) => {
-                self.0.next();
-                Ok(Sound::Y)
             }
             ('i', Some('a')) | ('a', Some('\'') | None) => {
                 self.0.next();
@@ -129,10 +127,6 @@ impl Iterator for Sounds<'_> {
             ('e', Some('a')) | ('e', Some('\'') | None) => {
                 self.0.next();
                 Ok(Sound::Ea)
-            }
-            ('u', Some('a' | 'e' | 'i' | 'o' | 'u')) => {
-                self.0.next();
-                Ok(Sound::U)
             }
             ('o', Some('a')) | ('o', Some('\'') | None) => {
                 self.0.next();
@@ -315,7 +309,7 @@ pub fn to_ascii(text: impl AsRef<str>, output: &mut String) -> Result<&str> {
             Sound::Iu => output.push_str("iu"),
             Sound::Oy => output.push_str("oy"),
             Sound::Oi => output.push_str("oi"),
-            Sound::H => output.push_str("h"),
+            Sound::H => output.push('h'),
         }
 
         last_y = matches!(sound, Sound::Y);
@@ -326,12 +320,86 @@ pub fn to_ascii(text: impl AsRef<str>, output: &mut String) -> Result<&str> {
 }
 
 /// Convert Zoitei ASCII/Unicode/Script to Unicode.
-pub fn to_unicode(_text: impl AsRef<str>, _output: &mut String) -> Result {
-    todo!()
+pub fn to_unicode(text: impl AsRef<str>, output: &mut String) -> Result<&str> {
+    let mut last_y = false;
+    let mut last_u = false;
+    let mut sounds = Sounds(text.as_ref().chars().peekable(), None).peekable();
+
+    while let Some(sound) = sounds.next() {
+        let sound = sound?;
+        let next = sounds.peek();
+        let is_ending = next.is_none();
+
+        match sound {
+            Sound::M => output.push('m'),
+            Sound::P => output.push('p'),
+            Sound::F => output.push('f'),
+            Sound::Th => output.push('þ'),
+            Sound::N => output.push('n'),
+            Sound::T if matches!(next, Some(Ok(Sound::Sh))) => {
+                sounds.next();
+                output.push('č')
+            }
+            Sound::T => output.push('t'),
+            Sound::S => output.push('s'),
+            Sound::Sh => output.push('š'),
+            Sound::Q => output.push('ŋ'),
+            Sound::K => output.push('k'),
+            Sound::X => output.push('x'),
+            Sound::Kh => output.push('ǩ'),
+            Sound::L => output.push('l'),
+            Sound::B => output.push('b'),
+            Sound::V => output.push('v'),
+            Sound::W => output.push('w'),
+            Sound::C => output.push('c'),
+            Sound::D if matches!(next, Some(Ok(Sound::Zh))) => {
+                sounds.next();
+                output.push('j')
+            }
+            Sound::D => output.push('d'),
+            Sound::Z => output.push('z'),
+            Sound::Zh => output.push('ž'),
+            Sound::R => output.push('r'),
+            Sound::G => output.push('g'),
+            Sound::Rh => output.push_str("rh"),
+            Sound::Gh => output.push_str("gh"),
+            Sound::Y => output.push('y'),
+            Sound::U => output.push('u'),
+            Sound::YhIe => output.push_str(if last_y { "ie" } else { "yh" }),
+            Sound::Ae => output.push_str(if is_ending { "y" } else { "y'" }),
+            Sound::Ih => output.push_str(if is_ending { "ih" } else { "i" }),
+            Sound::Iy => output.push_str(if is_ending { "i" } else { "i'" }),
+            Sound::Ah => output.push_str(if is_ending { "ah" } else { "a" }),
+            Sound::Ia => output.push_str(if is_ending { "a" } else { "a'" }),
+            Sound::Eh => output.push_str(if is_ending { "eh" } else { "e" }),
+            Sound::Ea => output.push_str(if is_ending { "e" } else { "e'" }),
+            Sound::UhOe => output.push_str(if last_u { "oe" } else { "uh" }),
+            Sound::Ou => output.push_str(if is_ending { "u" } else { "u'" }),
+            Sound::Oh => output.push_str(if is_ending { "oh" } else { "o" }),
+            Sound::Oa => output.push_str(if is_ending { "o" } else { "o'" }),
+            Sound::Ay => output.push_str("ay"),
+            Sound::Ai => output.push_str("ai"),
+            Sound::Au => output.push_str("au"),
+            Sound::Ao => output.push_str("ao"),
+            Sound::Ey => output.push_str("ey"),
+            Sound::Ei => output.push_str("ei"),
+            Sound::Eu => output.push_str("eu"),
+            Sound::Eo => output.push_str("eo"),
+            Sound::Iu => output.push_str("iu"),
+            Sound::Oy => output.push_str("oy"),
+            Sound::Oi => output.push_str("oi"),
+            Sound::H => output.push('h'),
+        }
+
+        last_y = matches!(sound, Sound::Y);
+        last_u = matches!(sound, Sound::U);
+    }
+
+    Ok(output)
 }
 
 /// Convert Zoitei ASCII/Unicode/Script to Script.
-pub fn to_script(_text: impl AsRef<str>, _output: &mut String) -> Result {
+pub fn to_script(text: impl AsRef<str>, output: &mut String) -> Result<&str> {
     todo!()
 }
 
@@ -345,5 +413,49 @@ mod tests {
         assert_eq!(to_ascii("dači", &mut String::new()), Ok("dachi"));
         assert_eq!(to_ascii("šeŋgoi", &mut String::new()), Ok("sheqgoi"));
         assert_eq!(to_ascii("doytsu", &mut String::new()), Ok("doytsu"));
+        assert_eq!(
+            to_ascii("doytsxue'ŋka", &mut String::new()),
+            Ok("doytsxueaqka"),
+        );
+        assert_eq!(to_ascii("dazah", &mut String::new()), Ok("dazah"));
+    }
+
+    #[test]
+    fn ascii_identity() {
+        assert_eq!(to_ascii("nouri", &mut String::new()), Ok("nouri"));
+        assert_eq!(to_ascii("dachi", &mut String::new()), Ok("dachi"));
+        assert_eq!(to_ascii("sheqgoi", &mut String::new()), Ok("sheqgoi"));
+        assert_eq!(to_ascii("doytsu", &mut String::new()), Ok("doytsu"));
+        assert_eq!(
+            to_ascii("doytsxueaqka", &mut String::new()),
+            Ok("doytsxueaqka"),
+        );
+        assert_eq!(to_ascii("dazah", &mut String::new()), Ok("dazah"));
+    }
+
+    #[test]
+    fn unicode() {
+        assert_eq!(to_unicode("nouri", &mut String::new()), Ok("nu'ri"));
+        assert_eq!(to_unicode("dachi", &mut String::new()), Ok("dači"));
+        assert_eq!(to_unicode("sheqgoi", &mut String::new()), Ok("šeŋgoi"));
+        assert_eq!(to_unicode("doytsu", &mut String::new()), Ok("doytsu"));
+        assert_eq!(
+            to_unicode("doytsxueaqka", &mut String::new()),
+            Ok("doytsxue'ŋka"),
+        );
+        assert_eq!(to_unicode("dazah", &mut String::new()), Ok("dazah"));
+    }
+
+    #[test]
+    fn unicode_identity() {
+        assert_eq!(to_unicode("nu'ri", &mut String::new()), Ok("nu'ri"));
+        assert_eq!(to_unicode("dači", &mut String::new()), Ok("dači"));
+        assert_eq!(to_unicode("šeŋgoi", &mut String::new()), Ok("šeŋgoi"));
+        assert_eq!(to_unicode("doytsu", &mut String::new()), Ok("doytsu"));
+        assert_eq!(
+            to_unicode("doytsxue'ŋka", &mut String::new()),
+            Ok("doytsxue'ŋka"),
+        );
+        assert_eq!(to_unicode("dazah", &mut String::new()), Ok("dazah"));
     }
 }
