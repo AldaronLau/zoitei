@@ -60,4 +60,4 @@ Some consonant clusters should be written using shorthand:
    back in mouth
  - `lh` / `ł` soft voiced 'h', tongue placement similar to 'l'
  - `rh` / `ř` hard voiced 'h', scoff / growl, tongue placement similar to 'r'
- - `nh` / `ň` glottal stop (must be between two vowels, otherwise inaudible)
+ - `nh` / `ň` glottal stop
