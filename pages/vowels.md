@@ -29,56 +29,62 @@ follow it with a lone 'h' (syllable break).
 
 ## Pronunciation
 
-|         | English word | Zoitei Romanized Phonetic Spelling |
-|---------|--------------|------------------------------------|
-| ah      | c*a*r        | kar                                |
-| ia / a' | *a*rt        | iart / a'rt                        |
-| ay      | cr*y*        | kray                               |
-| ai      | l*igh*t      | lait                               |
-| au      | h*ow*        | xau                                |
-| ao      | *ou*t        | aot                                |
-| eh      | f*ai*r       | fer                                |
-| ea / e' | *e*nd        | eand / e'nd                        |
-| ey      | st*ay*       | stey                               |
-| ei      | (b*a*g)      | (beig)                             |
-| eu      | -            | -                                  |
-| eo      | -            | -                                  |
-| ih      | f*i*n*i*sh   | finish / finiš                     |
-| iy / i' | f*ea*r       | fiyr / fi'r                        |
-| iu      | *ew*         | iu                                 |
-| oh      | g*o*ne       | gon                                |
-| oa / o' | ph*o*ne      | foan / fo'n                        |
-| oy      | -            | -                                  |
-| oi      | ann*oy*      | ianoi / a'noi                      |
-| ou / u' | s*ou*p       | soup / su'p                        |
-| uh      | b*oo*k       | buk                                |
-| {u}oe   | w*o*rd       | uoerd                              |
-| u-      | *w*ell       | ueal / ue'l                        |
-| yh      | d*i*rt       | dyrt                               |
-| ae / y' | s*a*nd       | saend / sy'nd                      |
-| {y}ie   | y*e*r        | yier                               |
-| y-      | *y*ear       | yiyr                               |
+The example words are unlikely to be dictated the exact same way in IPA due to
+the vowels in a Zatei accent not exactly matching up with American English.  For
+example, cry and light are notated in IPA the same way in the Cambridge
+dictionary, but it's important in Zoitei to distinguish that the vowel sound in
+"cry" is slightly higher pitched and slightly more nasal than the vowel sound in
+"light".  Additionally, vowels are often longer in Zatei than English, and the
+IPA notation provided attempts to convey that.
 
-### Note on ("bag")
+|         | IPA | English word | Zoitei Romanized Phonetic Spelling |
+|---------|-----|--------------|------------------------------------|
+| ah      | ɑ   | c*a*r        | kar                                |
+| ia / a' | ʌ   | b*u*t        | biat / ba't                        |
+| ay      | ai  | cr*y*        | kray                               |
+| ai      | ʌi  | l*igh*t      | lait                               |
+| au      | au  | h*ow*        | xau                                |
+| ao      | ʌu  | *ou*t        | aot                                |
+| eh      | e   | f*ai*r       | fer                                |
+| ea / e' | ɛ   | *e*nd        | eand / e'nd                        |
+| ey      | ei  | st*ay*       | stey                               |
+| ei      | ɛi  | -            | -                                  |
+| eu      | eu  | -            | -                                  |
+| eo      | ɛu  | -            | -                                  |
+| ih      | ɪ   | f*i*n*i*sh   | finish / finiš                     |
+| iy / i' | ɪi  | f*ea*r       | fiyr / fi'r                        |
+| iu      | ɪu  | *ew*         | iu                                 |
+| oh      | ɔ   | g*o*ne       | gon                                |
+| oa / o' | ou  | minnes*o*ta  | minysoata / minyso'ta              |
+| oy      | ɯi  | oi           | oy                                 |
+| oi      | oi  | ann*oy*      | ianoi / a'noi                      |
+| ou / u' | u   | s*ou*p       | soup / su'p                        |
+| uh      | ɯ   | b*oo*k       | buk                                |
+| {u}oe   | ɯ   | w*o*rd       | uoerd                              |
+| u-      | w   | *w*ell       | ueal / ue'l                        |
+| yh      | ə   | d*i*rt       | dyrt                               |
+| ae / y' | æ   | s*a*nd       | saend / sy'nd                      |
+| {y}ie   | ə   | y*e*r        | yier                               |
+| y-      | j   | *y*ear       | yiyr                               |
+| io      | ɔu  | ph*o*ne      | fion                               |
 
-Depending on accent, it may be pronounced "baeg" / "by'g", "beg", "beyg" or
-"beig".  Due to "ei" being only used in some northern midwest accents, it can
-be a stand-in when writing English in Zoitei for the speaker's chosen
-pronunciations.
+If you're having trouble differentiating pronunciations, you can think of them
+as the same sound but either having or not having a nasal quality:
 
-### Similar sounds
-
-"uh" is similar to "yh".  To know the difference say the word "wonderful";
-written as "uiandyrful" or "ua'ndyrful".  "uh" is lower pitched and longer than
-"yh", and "uh" is closer to the front of the mouth than "yh".
-
-"ei" is similar to "ey".  "ey" can be thought of as a more nasal version of
-"ei", while "ei" is softer.  Similarly, "eu" is the more nasal version of "eo",
-both also similar to "iu" with more emphasis upfront.
-
-"oy" is pronounced closer to "ai" (although one might assume it's closer to
-"ay"; it is not as the 'oh' sound is replaced with an 'uh' sound), but lower
-pitched, while "ai" is softer.
+| Non-Nasal | Nasal   |
+|-----------|---------|
+| oh        | ah      |
+| ea / e'   | eh      |
+| uh        | yh      |
+| ih        | ae / y' |
+| oa / o'   | a       |
+| ou / u'   | iy / i' |
+| ai        | ay      |
+| ao        | au      |
+| ei        | ey      |
+| eo        | eu      |
+| iu        | io      |
+| oy        | oi      |
 
 ## Vowels and Syllables
 
