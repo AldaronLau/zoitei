@@ -34,8 +34,7 @@ the vowels in a Zatei accent not exactly matching up with American English.  For
 example, cry and light are notated in IPA the same way in the Cambridge
 dictionary, but it's important in Zoitei to distinguish that the vowel sound in
 "cry" is slightly higher pitched and slightly more nasal than the vowel sound in
-"light".  Additionally, vowels are often longer in Zatei than English, and the
-IPA notation provided attempts to convey that.
+"light".
 
 |         | IPA | English word | Zoitei Romanized Phonetic Spelling |
 |---------|-----|--------------|------------------------------------|
