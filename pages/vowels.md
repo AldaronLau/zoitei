@@ -41,32 +41,32 @@ IPA notation provided attempts to convey that.
 |---------|-----|--------------|------------------------------------|
 | ah      | ɑ   | c*a*r        | kar                                |
 | ia / a' | ʌ   | b*u*t        | biat / ba't                        |
-| ay      | ai  | cr*y*        | kray                               |
-| ai      | ʌi  | l*igh*t      | lait                               |
-| au      | au  | h*ow*        | xau                                |
-| ao      | ʌu  | *ou*t        | aot                                |
+| ay      | ɑɪ  | cr*y*        | kray                               |
+| ai      | ʌɪ  | l*igh*t      | lait                               |
+| au      | ɑʊ  | h*ow*        | xau                                |
+| ao      | ʌʊ  | *ou*t        | aot                                |
 | eh      | e   | f*ai*r       | fer                                |
 | ea / e' | ɛ   | *e*nd        | eand / e'nd                        |
-| ey      | ei  | st*ay*       | stey                               |
-| ei      | ɛi  | -            | -                                  |
-| eu      | eu  | -            | -                                  |
-| eo      | ɛu  | -            | -                                  |
+| ey      | eɪ  | st*ay*       | stey                               |
+| ei      | ɛɪ  | -            | -                                  |
+| eu      | eʊ  | -            | -                                  |
+| eo      | ɛʊ  | -            | -                                  |
 | ih      | ɪ   | f*i*n*i*sh   | finish / finiš                     |
-| iy / i' | ɪi  | f*ea*r       | fiyr / fi'r                        |
-| iu      | ɪu  | *ew*         | iu                                 |
-| oh      | ɔ   | g*o*ne       | gon                                |
-| oa / o' | ou  | minnes*o*ta  | minysoata / minyso'ta              |
-| oy      | ɯi  | oi           | oy                                 |
-| oi      | oi  | ann*oy*      | ianoi / a'noi                      |
+| iy / i' | i   | f*ea*r       | fiyr / fi'r                        |
+| iu      | ɪʊ  | *ew*         | iu                                 |
+| oh      | ɒ   | g*o*ne       | gon                                |
+| oa / o' | oʊ  | minnes*o*ta  | minysoata / minyso'ta              |
+| oy      | ɯɪ  | oi           | oy                                 |
+| oi      | ɔɪ  | ann*oy*      | ianoi / a'noi                      |
 | ou / u' | u   | s*ou*p       | soup / su'p                        |
 | uh      | ɯ   | b*oo*k       | buk                                |
 | {u}oe   | ɯ   | w*o*rd       | uoerd                              |
 | u-      | w   | *w*ell       | ueal / ue'l                        |
-| yh      | ə   | d*i*rt       | dyrt                               |
+| yh      | ɜ   | d*i*rt       | dyrt                               |
 | ae / y' | æ   | s*a*nd       | saend / sy'nd                      |
-| {y}ie   | ə   | y*e*r        | yier                               |
+| {y}ie   | ɜ   | y*e*r        | yier                               |
 | y-      | j   | *y*ear       | yiyr                               |
-| io      | ɔu  | ph*o*ne      | fion                               |
+| io      | əʊ  | ph*o*ne      | fion                               |
 
 If you're having trouble differentiating pronunciations, you can think of them
 as the same sound but either having or not having a nasal quality:
