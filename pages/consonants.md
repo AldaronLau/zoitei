@@ -9,55 +9,57 @@ The consonants are arranged visually, organized by loud / quiet and big / small:
 
 | 3f | 0L    | 1L | 2q     | 3q     | 
 |----|-------|----|--------|--------|
-| 0s | m     | p  | f      | th / þ |
-| 1s | n     | t  | s      | sh / š |
-| 2s | q / ŋ | k  | x      | lh / ł |
+| 0s | m     | p  | f      | þ (th) |
+| 1s | n     | t  | s      | š (sh) |
+| 2s | ŋ (q) | k  | x      | ł (lh) |
 | 3B | l     | b  | v      | w      |
-| 4B | c     | d  | z      | zh / ž |
-| 5B | r     | g  | nh / ň | rh / ř |
+| 4B | c     | d  | z      | ž (zh) |
+| 5B | r     | g  | ň (nh) | ř (rh) |
 
 Some consonant clusters should be written using shorthand:
 
-| long | short  |
-|------|--------|
-| dzh  | j      |
-| tsh  | ch / č |
+| long     | short  |
+|----------|--------|
+| dž (dzh) | j      |
+| tš (tsh) | č (ch) |
 
 ## Pronunciation
 
 |          | IPA | English word | Zoitei Romanized Phonetic Spelling |
 |----------|-----|--------------|------------------------------------|
-| m        | m   | *m*ean       | miyn / mi'n                        |
+| m        | m   | *m*ean       | miyn                               |
 | p        | p   | *p*our       | pior                               |
-| f        | f   | *f*ool       | foul / fu'l                        |
-| th / þ   | θ   | bo*th*       | boath / bo'þ                       |
+| f        | f   | *f*ool       | foul                               |
+| th / þ   | θ   | bo*th*       | boaþ                               |
 | n        | n   | *n*o         | no                                 |
 | t        | t   | *t*o         | tu                                 |
-| s        | s   | *s*ibling    | sibliyq / sibli'ŋ                  |
-| sh / š   | ʃ   | *sh*ard      | shard / šard                       |
-| q / ŋ    | ŋ   | si*ng*       | siyq / si'ŋ                        |
+| s        | s   | *s*ibling    | sibliyŋ                            |
+| sh / š   | ʃ   | *sh*ard      | šard                               |
+| q / ŋ    | ŋ   | si*ng*       | siyŋ                               |
 | k        | k   | *c*ard       | kard                               |
-| x        | h   | *h*ello      | xealo / xe'lo                      |
-| lh / ł   | χ   | -            | -                                  |
-| l        | l   | *l*ore       | loar / lo'r                        |
-| b        | b   | *b*alance    | baelins / by'lins                  |
+| x        | h   | *h*ello      | xealo                              |
+| lh / ł   | χ   | (*ch*utzpah) | łutspa                             |
+| l        | l   | *l*ore       | lior                               |
+| b        | b   | *b*alance    | baelins                            |
 | v        | v   | *v*iolin     | vayiolin                           |
 | w        | ð   | bo*th*er     | bowyr                              |
 | c        | ɽ   | -            | -                                  |
-| d        | d   | *d*ance      | daens / dy'ns                      |
-| z        | z   | *x*ylophone  | zayloafion / zaylo'fion            |
-| zh / ž   | ʒ   | colla*g*e    | kialazh / ka'laž                   |
+| d        | d   | *d*ance      | daens                              |
+| z        | z   | *x*ylophone  | zayloafion                         |
+| zh / ž   | ʒ   | colla*g*e    | kulaž                              |
 | r        | ɹ   | *r*ain       | reyn                               |
-| g        | g   | *g*rab       | graeb / gry'b                      |
-| nh / ň   | ʔ   | -            | -                                  |
-| rh / ř   | ʁ   | -            | -                                  |
+| g        | g   | *g*rab       | graeb                              |
+| nh / ň   | ʔ   | nu*h*-uh     | niaňa                              |
+| rh / ř   | ʁ   | (Louv*r*e)   | louvř                              |
 | j        | dʒ  | *j*ar        | jar                                |
-| ch / č   | tʃ  | *ch*air      | cher / čer                         |
+| ch / č   | tʃ  | *ch*air      | čer                                |
 | rr       | r   | -            | -                                  |
 | cc       | ɾ   | -            | -                                  |
 | ll       | ʟ 	 | -            | -                                  |
-| lhh / łł | x   | -            | -                                  |
+| lhh / łł | x   | lo*ch*       | lołł                               |
 | rhh / řř | ɣ   | -            | -                                  |
+| pf       | ɸ   | -            | -                                  |
+| bv       | β   | -            | -                                  |
 
 ### Non-American-English Sounds
 
@@ -84,3 +86,5 @@ Some consonant clusters should be written using shorthand:
    sound.
  - `rhh` / `řř`: Long `ř`, may be pronounced twice, alternatively may roll the
    glotal r, or make a scoffing or growling sound.
+ - `pf`: Long p, similar to an f (halfway between p and f)
+ - `bv`: Long b, similar to a v (halfway between b and v)
