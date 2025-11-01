@@ -35,36 +35,39 @@ dictionary, but it's important in Zoitei to distinguish that the vowel sound in
 "cry" is slightly higher pitched and slightly more nasal than the vowel sound in
 "light".
 
-|         | IPA | English word | Zoitei Romanized Phonetic Spelling |
-|---------|-----|--------------|------------------------------------|
-| ah      | ɑ   | c*a*r        | kar                                |
-| ia / a' | ʌ   | b*u*t        | biat                               |
-| ay      | ɑɪ  | cr*y*        | kray                               |
-| ai      | ʌɪ  | l*igh*t      | lait                               |
-| au      | ɑʊ  | h*ow*        | xau                                |
-| ao      | ʌʊ  | *ou*t        | aot                                |
-| eh      | e   | f*ai*r       | fer                                |
-| ea / e' | ɛ   | *e*nd        | eand                               |
-| ey      | eɪ  | st*ay*       | stey                               |
-| ei      | ɛɪ  | -            | -                                  |
-| eu      | eʊ  | -            | -                                  |
-| eo      | ɛʊ  | -            | -                                  |
-| ih      | ɪ   | f*i*n*i*sh   | finiš                              |
-| iy / i' | iː  | f*ea*r       | fiyr                               |
-| iu      | ɪʊ  | *ew*         | iu                                 |
-| oh      | ɒ   | g*o*ne       | gon                                |
-| oa / o' | oʊ  | minnes*o*ta  | minysoata                          |
-| oy      | ɯɪ  | oi           | oy                                 |
-| oi      | ɔɪ  | ann*oy*      | ianoi                              |
-| ou / u' | uː  | s*ou*p       | soup                               |
-| uh      | ɯ   | b*oo*k       | buk                                |
-| {u}oe   | ɯ   | w*oo*l       | uoel                               |
-| u-      | w   | *w*ell       | ueal                               |
-| yh      | ɜ   | d*i*rt       | dyrt                               |
-| ae / y' | æ   | s*a*nd       | saend                              |
-| {y}ie   | ɜ   | y*e*r        | yier                               |
-| y-      | j   | *y*ear       | yiyr                               |
-| io      | əʊ  | ph*o*ne      | fion                               |
+For vowels coming before an 'r' or 'l', the IPA sound ɚ is added at the end
+forming a glide vowel into the 'r' or 'l'.
+
+|       | IPA | English word | Zoitei Romanized Phonetic Spelling |
+|-------|-----|--------------|------------------------------------|
+| ah    | ɑ   | c*a*r        | kar                                |
+| ia, a | ʌ   | b*u*t        | biat                               |
+| ay    | ɑɪ  | cr*y*        | kray                               |
+| ai    | ʌɪ  | l*igh*t      | lait                               |
+| au    | ɑʊ  | h*ow*        | xau                                |
+| ao    | ʌʊ  | *ou*t        | aot                                |
+| eh    | e   | f*ai*r       | fer                                |
+| ea, e | ɛ   | *e*nd        | eand                               |
+| ey    | eɪ  | st*ay*       | stey                               |
+| ei    | ɛɪ  | -            | -                                  |
+| eu    | eʊ  | -            | -                                  |
+| eo    | ɛʊ  | -            | -                                  |
+| ih    | ɪ   | f*i*n*i*sh   | finiš                              |
+| iy, i | iː  | f*ea*r       | fiyr                               |
+| iu    | ɪʊ  | *ew*         | iu                                 |
+| oh    | ɒ   | g*o*ne       | gon                                |
+| oa, o | oʊ  | minnes*o*ta  | minysoata                          |
+| oy    | ɯɪ  | oi           | oy                                 |
+| oi    | ɔɪ  | ann*oy*      | ianoi                              |
+| ou, u | uː  | s*ou*p       | soup                               |
+| uh    | ɯ   | b*oo*k       | buk                                |
+| {u}oe | ɯ   | w*oo*l       | uoel                               |
+| u-    | w   | *w*ell       | ueal                               |
+| yh    | ɜ   | d*i*rt       | dyrt                               |
+| ae, y | æ   | s*a*nd       | saend                              |
+| {y}ie | ɜ   | y*e*r        | yier                               |
+| y-    | j   | *y*ear       | yiyr                               |
+| io    | əʊ  | ph*o*ne      | fion                               |
 
 If you're having trouble differentiating pronunciations, you can think of them
 as the same sound but either having or not having a nasal quality:
@@ -98,8 +101,8 @@ syllables, add a diëresis (or for ASCII, a preceding h).
 | ʌ.ɛn     | iaëan (iahean)   |
 | ɑ.e      | aëh (aheh)       |
 | ʌ.e      | iaëh (iaheh)     |
-| ɑ.en     | aën (ahean)      |
-| ʌ.en     | iaën (iahean)    |
+| ɑ.en     | aën (ahen)       |
+| ʌ.en     | iaën (iahen)     |
 
 The default syllable emphasis for zoitei by word is:
 
