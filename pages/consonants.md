@@ -53,13 +53,6 @@ Some consonant clusters should be written using shorthand:
 | rh / ř   | ʁ   | (Louv*r*e)   | louvř                              |
 | j        | dʒ  | *j*ar        | jar                                |
 | ch / č   | tʃ  | *ch*air      | čer                                |
-| rr       | r   | -            | -                                  |
-| cc       | ɾ   | -            | -                                  |
-| ll       | ʟ 	 | -            | -                                  |
-| lhh / łł | x   | lo*ch*       | lołł                               |
-| rhh / řř | ɣ   | -            | -                                  |
-| pf       | ɸ   | -            | -                                  |
-| bv       | β   | -            | -                                  |
 
 ### Non-American-English Sounds
 
@@ -76,15 +69,3 @@ Some consonant clusters should be written using shorthand:
  - `rh` / `ř`: Once you can say `lh` / `ł`, this is the same but voiced.
    Alternatively, you can think of it as a `g` sound thats held out, or an `r`
    but in the back of your throat.
- - `rr`: Long `r` can just be a held `r`, or you can roll it if you like and are
-   able.  Alternatively, just pronounce it twice.
- - `cc`: Long `c` can just be a held `c`, or you can say it without the
-   "clicking sound" / without tapping roof of your mouth.
- - `ll`: Long `l` can just be a held `l`, or you can say it twice.
-   Alternatively, may be differentiated by putting your tongue in a taco shape.
- - `lhh` / `łł`: Long `ł`, may be pronounced twice or be blended with a `k`
-   sound.
- - `rhh` / `řř`: Long `ř`, may be pronounced twice, alternatively may roll the
-   glotal r, or make a scoffing or growling sound.
- - `pf`: Long p, similar to an f (halfway between p and f)
- - `bv`: Long b, similar to a v (halfway between b and v)

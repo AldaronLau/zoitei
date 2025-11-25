@@ -35,8 +35,8 @@ dictionary, but it's important in Zoitei to distinguish that the vowel sound in
 "cry" is slightly higher pitched and slightly more nasal than the vowel sound in
 "light".
 
-For vowels coming before an 'r' or 'l', the IPA sound ɚ is added at the end
-forming a glide vowel into the 'r' or 'l'.
+When the IPA ə sound (yh, ie) comes before an 'r', the IPA sound ɚ replaces it
+(the vowel becomes "r colored").
 
 |       | IPA | English word | Zoitei Romanized Phonetic Spelling |
 |-------|-----|--------------|------------------------------------|
@@ -56,7 +56,7 @@ forming a glide vowel into the 'r' or 'l'.
 | iy, i | iː  | f*ea*r       | fiyr                               |
 | iu    | ɪʊ  | *ew*         | iu                                 |
 | oh    | ɒ   | g*o*ne       | gon                                |
-| oa, o | oʊ  | minnes*o*ta  | minysoata                          |
+| oa, o | ɔʊ  | minnes*o*ta  | minysoata                          |
 | oy    | ɯɪ  | oi           | oy                                 |
 | oi    | ɔɪ  | ann*oy*      | ianoi                              |
 | ou, u | uː  | s*ou*p       | soup                               |
@@ -67,7 +67,7 @@ forming a glide vowel into the 'r' or 'l'.
 | ae, y | æ   | s*a*nd       | saend                              |
 | {y}ie | ɜ   | y*e*r        | yier                               |
 | y-    | j   | *y*ear       | yiyr                               |
-| io    | əʊ  | ph*o*ne      | fion                               |
+| io    | ɔ   | ph*o*ne      | fion                               |
 
 If you're having trouble differentiating pronunciations, you can think of them
 as the same sound but either having or not having a nasal quality:
