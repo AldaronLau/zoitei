@@ -28,7 +28,7 @@ Some consonant clusters should be written using shorthand:
 |          | IPA | English word | Zoitei Romanized Phonetic Spelling |
 |----------|-----|--------------|------------------------------------|
 | m        | m   | *m*ean       | miyn                               |
-| p        | p   | *p*our       | pior                               |
+| p        | p   | *p*art       | piart                              |
 | f        | f   | *f*ool       | foul                               |
 | th / þ   | θ   | bo*th*       | boaþ                               |
 | n        | n   | *n*o         | no                                 |
@@ -45,7 +45,7 @@ Some consonant clusters should be written using shorthand:
 | w        | ð   | bo*th*er     | bowyr                              |
 | c        | ɽ   | -            | -                                  |
 | d        | d   | *d*ance      | daens                              |
-| z        | z   | *x*ylophone  | zayloafion                         |
+| z        | z   | *x*ylophone  | zayliofoan                         |
 | zh / ž   | ʒ   | colla*g*e    | kulaž                              |
 | r        | ɹ   | *r*ain       | reyn                               |
 | g        | g   | *g*rab       | graeb                              |

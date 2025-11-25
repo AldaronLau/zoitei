@@ -56,7 +56,7 @@ When the IPA ə sound (yh, ie) comes before an 'r', the IPA sound ɚ replaces it
 | iy, i | iː  | f*ea*r       | fiyr                               |
 | iu    | ɪʊ  | *ew*         | iu                                 |
 | oh    | ɒ   | g*o*ne       | gon                                |
-| oa, o | ɔʊ  | minnes*o*ta  | minysoata                          |
+| oa, o | ɔʊ  | teleph*o*ne  | tealyfoan                          |
 | oy    | ɯɪ  | oi           | oy                                 |
 | oi    | ɔɪ  | ann*oy*      | ianoi                              |
 | ou, u | uː  | s*ou*p       | soup                               |
@@ -67,7 +67,7 @@ When the IPA ə sound (yh, ie) comes before an 'r', the IPA sound ɚ replaces it
 | ae, y | æ   | s*a*nd       | saend                              |
 | {y}ie | ɜ   | y*e*r        | yier                               |
 | y-    | j   | *y*ear       | yiyr                               |
-| io    | ɔ   | ph*o*ne      | fion                               |
+| io    | ɔ   | p*ou*r       | pior                               |
 
 If you're having trouble differentiating pronunciations, you can think of them
 as the same sound but either having or not having a nasal quality:
