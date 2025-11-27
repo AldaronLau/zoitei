@@ -10,7 +10,7 @@ visually, organized by loud / quiet and big / small:
 | 2s | a(h)        | a, ia              |
 | 3B | e(h)        | e, ea              |
 | 4B | u(h), {u}oe | u, ou \| \[u-,-u\] |
-| 5B | o(h)        | o, oa              |
+| 5B | o(h)        | x, io              |
 
  - Lists are in order of preference
  - `(h)` in place of a consonant, or h for silence
@@ -18,6 +18,7 @@ visually, organized by loud / quiet and big / small:
    -> uoel)
  - `[h-,-h]` refers to the associated semivowels for the listed "gliding vowels"
    (yeet -> yiyt, swoon -> suoun)
+ - `iou` (long o sound) is rewritten a `o, oa`
 
 | Romanized Spelling | Pronunciation        |
 |--------------------|----------------------|
@@ -67,7 +68,7 @@ When the IPA ə sound (yh, ie) comes before an 'r', the IPA sound ɚ replaces it
 | ae, y | æ   | s*a*nd       | saend                              |
 | {y}ie | ɜ   | y*e*r        | yier                               |
 | y-    | j   | *y*ear       | yiyr                               |
-| io    | ɔ   | p*ou*r       | pior                               |
+| io, x | ɔ   | p*ou*r       | pior                               |
 
 If you're having trouble differentiating pronunciations, you can think of them
 as the same sound but either having or not having a nasal quality:
@@ -77,14 +78,14 @@ as the same sound but either having or not having a nasal quality:
 | oh        | ah      |
 | ea, e     | eh      |
 | uh        | yh      |
-| ih        | ae, y   |
-| oa, o     | a       |
-| ou, u     | iy, i   |
+| ei        | ey      |
+| oa, o     | io, x   |
+| eo        | eu      |
+| ia, a     | ae, y   |
+| ou, u     | iu      |
+| iy, i     | ih      |
 | ai        | ay      |
 | ao        | au      |
-| ei        | ey      |
-| eo        | eu      |
-| iu        | io      |
 | oy        | oi      |
 
 ## Vowels and Syllables
@@ -110,6 +111,7 @@ The default syllable emphasis for zoitei by word is:
  2. STRONG WEAK
  3. WEAK STRONG WEAK
  4. WEAK STRONG STRONG WEAK
+ 5. WEAK STRONG STRONG STRONG WEAK
  6. etc.
 
 This can be overridden by using a double vowel for the strong syllables (double
