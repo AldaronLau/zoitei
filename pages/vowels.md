@@ -36,57 +36,57 @@ dictionary, but it's important in Zoitei to distinguish that the vowel sound in
 "cry" is slightly higher pitched and slightly more nasal than the vowel sound in
 "light".
 
-When the IPA ə sound (yh, ie) comes before an 'r', the IPA sound ɚ replaces it
+When the IPA ø̞̃ sound (yh, ie) comes before an 'r', the IPA sound ɚ̃ replaces it
 (the vowel becomes "r colored").
 
 |       | IPA | English word | Zoitei Romanized Phonetic Spelling |
 |-------|-----|--------------|------------------------------------|
-| ah    | ɑ   | c*a*r        | kar                                |
+| ah    | ã   | c*a*r        | kar                                |
 | ia, a | ʌ   | b*u*t        | biat                               |
-| ay    | ɑɪ  | cr*y*        | kray                               |
+| ay    | ãɪ  | cr*y*        | kray                               |
 | ai    | ʌɪ  | l*igh*t      | lait                               |
-| au    | ɑʊ  | h*ow*        | xau                                |
+| au    | ãʊ  | h*ow*        | xau                                |
 | ao    | ʌʊ  | *ou*t        | aot                                |
-| eh    | e   | f*ai*r       | fer                                |
+| eh    | ẽ   | f*ai*r       | fer                                |
 | ea, e | ɛ   | *e*nd        | eand                               |
-| ey    | eɪ  | st*ay*       | stey                               |
+| ey    | ẽɪ  | st*ay*       | stey                               |
 | ei    | ɛɪ  | -            | -                                  |
-| eu    | eʊ  | -            | -                                  |
+| eu    | ẽʊ  | -            | -                                  |
 | eo    | ɛʊ  | -            | -                                  |
-| ih    | ɪ   | f*i*n*i*sh   | finiš                              |
+| ih    | ɪ̃   | f*i*n*i*sh   | finiš                              |
 | iy, i | iː  | f*ea*r       | fiyr                               |
-| iu    | ɪʊ  | *ew*         | iu                                 |
+| iu    | ɪ̃ʊ  | *ew*         | iu                                 |
 | oh    | ɒ   | g*o*ne       | gon                                |
 | oa, o | ɔʊ  | teleph*o*ne  | tealyfoan                          |
 | oy    | ɯɪ  | oi           | oy                                 |
-| oi    | ɔɪ  | ann*oy*      | ianoi                              |
+| oi    | ɔ̃ɪ  | ann*oy*      | ianoi                              |
 | ou, u | uː  | s*ou*p       | soup                               |
 | uh    | ɯ   | b*oo*k       | buk                                |
 | {u}oe | ɯ   | w*oo*l       | uoel                               |
 | u-    | w   | *w*ell       | ueal                               |
-| yh    | ɜ   | d*i*rt       | dyrt                               |
-| ae, y | æ   | s*a*nd       | saend                              |
-| {y}ie | ɜ   | y*e*r        | yier                               |
+| yh    | ø̞̃,ɚ̃ | d*i*rt       | dyrt                               |
+| ae, y | æ̃   | s*a*nd       | saend                              |
+| {y}ie | ø̞̃,ɚ̃ | y*e*r        | yier                               |
 | y-    | j   | *y*ear       | yiyr                               |
-| io, x | ɔ   | p*ou*r       | pior                               |
+| io, x | ɔ̃   | p*ou*r       | pior                               |
 
 If you're having trouble differentiating pronunciations, you can think of them
 as the same sound but either having or not having a nasal quality:
 
-| Non-Nasal | Nasal   |
-|-----------|---------|
-| oh        | ah      |
-| ea, e     | eh      |
-| uh        | yh      |
-| ei        | ey      |
-| oa, o     | io, x   |
-| eo        | eu      |
-| ia, a     | ae, y   |
-| ou, u     | iu      |
-| iy, i     | ih      |
-| ai        | ay      |
-| ao        | au      |
-| oy        | oi      |
+| Non-Nasal | Nasal     |
+|-----------|-----------|
+| oh        | ah        |
+| ea, e     | eh        |
+| uh (uoe)  | yh, (yie) |
+| ei        | ey        |
+| oa, o     | io, x     |
+| eo        | eu        |
+| ia, a     | ae, y     |
+| ou, u     | iu        |
+| iy, i     | ih        |
+| ai        | ay        |
+| ao        | au        |
+| oy        | oi        |
 
 ## Vowels and Syllables
 
@@ -95,15 +95,15 @@ syllables, add a diëresis (or for ASCII, a preceding h).
 
 | IPA      | Zoitei Romanized |
 |----------|------------------|
-| æ        | ae               |
-| ɑ.ɛ      | aë (ahe)         |
+| æ̃        | ae               |
+| ã.ɛ      | aë (ahe)         |
 | ʌ.ɛ      | iaë (iahe)       |
-| ɑ.ɛn     | aëan (ahean)     |
+| ã.ɛn     | aëan (ahean)     |
 | ʌ.ɛn     | iaëan (iahean)   |
-| ɑ.e      | aëh (aheh)       |
-| ʌ.e      | iaëh (iaheh)     |
-| ɑ.en     | aën (ahen)       |
-| ʌ.en     | iaën (iahen)     |
+| ã.ẽ      | aëh (aheh)       |
+| ʌ.ẽ      | iaëh (iaheh)     |
+| ã.ẽn     | aën (ahen)       |
+| ʌ.ẽn     | iaën (iahen)     |
 
 The default syllable emphasis for zoitei by word is:
 

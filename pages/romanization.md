@@ -1,4 +1,4 @@
-# Romanization
+# Zoitei Romanization
 
 Before learning Zoitei, it's easier to learn with the latin alphabet.
 
