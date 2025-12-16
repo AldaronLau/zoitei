@@ -7,4 +7,5 @@
    - [Punctuation](./punctuation.md)
    - [Elongation](./elongation.md)
    - [Consonant Extensions](./extensions.md)
+   - [Vowel Extensions](./more.md)
  - [Zoitei Script](./script.md)

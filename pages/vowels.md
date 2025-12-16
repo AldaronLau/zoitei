@@ -34,10 +34,8 @@ the vowels in a Zatei accent not exactly matching up with American English.  For
 example, cry and light are notated in IPA the same way in the Cambridge
 dictionary, but it's important in Zoitei to distinguish that the vowel sound in
 "cry" is slightly higher pitched and slightly more nasal than the vowel sound in
-"light".
-
-When the IPA ø̞̃ sound (yh, ie) comes before an 'r', the IPA sound ɚ̃ replaces it
-(the vowel becomes "r colored").
+"light".  The more median English pronunciation is notated with the
+[vowel extension 'aia'](more.md).
 
 |       | IPA | English word | Zoitei Romanized Phonetic Spelling |
 |-------|-----|--------------|------------------------------------|
@@ -49,26 +47,26 @@ When the IPA ø̞̃ sound (yh, ie) comes before an 'r', the IPA sound ɚ̃ repla
 | ao    | ʌʊ  | *ou*t        | aot                                |
 | eh    | ẽ   | f*ai*r       | fer                                |
 | ea, e | ɛ   | *e*nd        | eand                               |
-| ey    | ẽɪ  | st*ay*       | stey                               |
-| ei    | ɛɪ  | -            | -                                  |
+| ey    | ẽɪ  | w*ay*        | uey                                |
+| ei    | ɛɪ  | w*eigh*      | uei                                |
 | eu    | ẽʊ  | -            | -                                  |
 | eo    | ɛʊ  | -            | -                                  |
 | ih    | ɪ̃   | f*i*n*i*sh   | finiš                              |
 | iy, i | iː  | f*ea*r       | fiyr                               |
 | iu    | ɪ̃ʊ  | *ew*         | iu                                 |
 | oh    | ɒ   | g*o*ne       | gon                                |
-| oa, o | ɔʊ  | teleph*o*ne  | tealyfoan                          |
+| oa, o | ɔʊː | f*ou*r       | foar                               |
 | oy    | ɯɪ  | oi           | oy                                 |
 | oi    | ɔ̃ɪ  | ann*oy*      | ianoi                              |
 | ou, u | uː  | s*ou*p       | soup                               |
 | uh    | ɯ   | b*oo*k       | buk                                |
 | {u}oe | ɯ   | w*oo*l       | uoel                               |
 | u-    | w   | *w*ell       | ueal                               |
-| yh    | ø̞̃,ɚ̃ | d*i*rt       | dyrt                               |
+| yh    | ɘ̃ː  | d*i*rt       | dyrt                               |
 | ae, y | æ̃   | s*a*nd       | saend                              |
-| {y}ie | ø̞̃,ɚ̃ | y*e*r        | yier                               |
+| {y}ie | ɘ̃ː  | y*e*r        | yier                               |
 | y-    | j   | *y*ear       | yiyr                               |
-| io, x | ɔ̃   | p*ou*r       | pior                               |
+| io, x | ɔ̃   | f*o*r        | fior                               |
 
 If you're having trouble differentiating pronunciations, you can think of them
 as the same sound but either having or not having a nasal quality:

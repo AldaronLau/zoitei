@@ -5,56 +5,64 @@ These extensions indicate an alternate sound.
 
 |    | 4L      | 5L | 6q       | 7q       | 
 |----|---------|----|----------|----------|
-| 0s | m'      | p' | f'       | þ' (th') |
-| 1s | n'      | t' | s'       | š' (sh') |
-| 2s | ŋ' (q') | k' | x'       | ł' (lh') |
-| 3B | l'      | b' | v'       | w'       |
-| 4B | c'      | d' | z'       | ž' (zh') |
-| 5B | r'      | g' | ň' (nh') | ř' (rh') |
+| 0s | l'      | p' | f'       | þ' (th') |
+| 1s | c'      | t' | s'       | š' (sh') |
+| 2s | r'      | k' | x'       | ł' (lh') |
+| 3B | m'      | b' | v'       | w'       |
+| 4B | n'      | d' | z'       | ž' (zh') |
+| 5B | ŋ' (q') | g' | ň' (nh') | ř' (rh') |
 
 ## Pronunciation
 
 |          | IPA | English word | Zoitei Romanized Phonetic Spelling |
 |----------|-----|--------------|------------------------------------|
-| m'       | ʙ̥   | -            | -                                  |
+| l'       | ʙ̥   | -            | -                                  |
 | p'       | pʼ  | -            | -                                  |
-| f'       | ɸ   | -            | -                                  |
-| th' / þ' |     | -            | -                                  |
-| n'       |     | -            | -                                  |
-| t'       | tʼ  | -            | -                                  |
-| s'       |     | -            | -                                  |
-| sh' / š' |     | -            | -                                  |
-| q' / ŋ'  |     | -            | -                                  |
-| k'       | q   | -            | -                                  |
-| x'       | h↓  | -            | -                                  |
-| lh' / ł' | x   | lo*ch*       | loł'                               |
-| l'       | ʙ   | -            | -                                  |
-| b'       | ʘ   | -            | -                                  |
-| v'       | β   | -            | -                                  |
-| w'       |     | -            | -                                  |
+| f'       | ɸʼ  | -            | -                                  |
+| th' / þ' | ɸ   | -            | -                                  |
 | c'       | ɾ   | -            | -                                  |
-| d'       | ǀ   | -            | -                                  |
-| z'       |     | -            | -                                  |
-| zh' / ž' |     | -            | -                                  |
+| t'       | tʼ  | -            | -                                  |
+| s'       | ɕ   | -            | -                                  |
+| sh' / š' | ʂ   | -            | -                                  |
 | r'       | r   | -            | -                                  |
+| k'       | qʼ  | -            | -                                  |
+| x'       | h↓  | -            | -                                  |
+| lh' / ł' | ʜ   | -            | -                                  |
+| m'       | ʙ   | -            | -                                  |
+| b'       | ʘ   | -            | -                                  |
+| v'       | ⱱ̟   | *b*rr        | b'yb'yh                            |
+| w'       | β   | -            | -                                  |
+| n'       | ψ   | -            | -                                  |
+| d'       | ǀ   | *tsk*        | d'                                 |
+| z'       | ʑ   | -            | -                                  |
+| zh' / ž' | ʐ   | -            | -                                  |
+| q' / ŋ'  | ɭ   | hangul       | xanguŋ'                            |
 | g'       | ǃ   | -            | -                                  |
-| nh' / ň' |     | -            | -                                  |
-| rh' / ř' | ɣ   | -            | -                                  |
+| nh' / ň' | x   | lo*ch*       | loň'                               |
+| rh' / ř' | ʢ   | -            | -                                  |
 
 ### Sounds
  
  - `r'`: Rolled `r`
  - `c'`: Sound between `l` and `r`
- - `lh'` / `ł'`: `ł` with stop OR alternatively long 'k'
+ - `nh'` / `ň'`: `ł` with stop
  - `rh'` / `ř'`: Rolled `ř`
- - `f'`: Long p, similar to an f (halfway between p and f)
- - `v'`: Long b, similar to a v (halfway between b and v)
- - `p'`: Pop sound (exasperated `p`)
- - `t'`: Tick sound (exasperated `t`)
- - `k'`: Click sound (exasperated `k`)
- - `m'`: Unvoiced buzzing sound (trilled `p`)
- - `l'`: Buzzing sound (trilled `b`)
+ - `lh'` / `ł'`: Rolled `ł`, long `k`
+ - `th'` / `þ'`: Long p, similar to an f (halfway between p and f)
+ - `w'`: Long b, similar to a v (halfway between b and v)
+ - `p'`: Pop sound (ejective `p`)
+ - `t'`: Tick sound (ejective `t`)
+ - `k'`: Click sound (ejective `k`)
+ - `l'`: Unvoiced buzzing sound (trilled `p`)
+ - `m'`: Buzzing sound (trilled `b`)
  - `b'`: "Kissing" Click
  - `d'`: "Tsk" Click
- - `k'`: Back of mouth click
+ - `g'`: Back of mouth click
  - `x'`: Gasp / breath in
+ - `q'` / `ŋ'`: Rolled tongue `l`
+ - `s'`: Between `s` and `š` / `sh`
+ - `z'`: Between `z` and `ž` / `zh`
+ - `sh'` / `š'`: Rolled tongue `š` / `sh`
+ - `zh'` / `z'`: Rolled tongue `ž` / `zh`
+ - `f'`: Long `b'` (non-click variant)
+ - `v'`: Shiver noise

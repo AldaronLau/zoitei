@@ -9,12 +9,12 @@ The consonants are arranged visually, organized by loud / quiet and big / small:
 
 | 3f | 0L    | 1L | 2q     | 3q     | 
 |----|-------|----|--------|--------|
-| 0s | m     | p  | f      | þ (th) |
-| 1s | n     | t  | s      | š (sh) |
-| 2s | ŋ (q) | k  | x      | ł (lh) |
-| 3B | l     | b  | v      | w      |
-| 4B | c     | d  | z      | ž (zh) |
-| 5B | r     | g  | ň (nh) | ř (rh) |
+| 0s | l     | p  | f      | þ (th) |
+| 1s | c     | t  | s      | š (sh) |
+| 2s | r     | k  | x      | ł (lh) |
+| 3B | m     | b  | v      | w      |
+| 4B | n     | d  | z      | ž (zh) |
+| 5B | ŋ (q) | g  | ň (nh) | ř (rh) |
 
 Some consonant clusters should be written using shorthand:
 
@@ -27,30 +27,30 @@ Some consonant clusters should be written using shorthand:
 
 |          | IPA | English word | Zoitei Romanized Phonetic Spelling |
 |----------|-----|--------------|------------------------------------|
-| m        | m   | *m*ean       | miyn                               |
+| l        | l   | *l*ore       | lior                               |
 | p        | p   | *p*art       | piart                              |
 | f        | f   | *f*ool       | foul                               |
 | th / þ   | θ   | bo*th*       | boaþ                               |
-| n        | n   | *n*o         | no                                 |
+| c        | ɽ   | -            | -                                  |
 | t        | t   | *t*o         | tu                                 |
 | s        | s   | *s*ibling    | sibliyŋ                            |
 | sh / š   | ʃ   | *sh*ard      | šard                               |
-| q / ŋ    | ŋ   | si*ng*       | siyŋ                               |
+| r        | ɹ   | *r*ain       | reyn                               |
 | k        | k   | *c*ard       | kard                               |
 | x        | h   | *h*ello      | xealo                              |
 | lh / ł   | χ   | (*ch*utzpah) | łutspa                             |
-| l        | l   | *l*ore       | lior                               |
+| m        | m   | *m*ean       | miyn                               |
 | b        | b   | *b*alance    | baelins                            |
 | v        | v   | *v*iolin     | vayiolin                           |
 | w        | ð   | bo*th*er     | bowyr                              |
-| c        | ɽ   | -            | -                                  |
+| n        | n   | *n*o         | no                                 |
 | d        | d   | *d*ance      | daens                              |
 | z        | z   | *x*ylophone  | zayliofoan                         |
 | zh / ž   | ʒ   | colla*g*e    | kulaž                              |
-| r        | ɹ   | *r*ain       | reyn                               |
+| q / ŋ    | ŋ   | si*ng*       | siyŋ                               |
 | g        | g   | *g*rab       | graeb                              |
 | nh / ň   | ʔ   | nu*h*-uh     | niaňa                              |
-| rh / ř   | ʁ   | (Louv*r*e)   | louvř                              |
+| rh / ř   | ɣ   | -            | -                                  |
 | j        | dʒ  | *j*ar        | jar                                |
 | ch / č   | tʃ  | *ch*air      | čer                                |
 
